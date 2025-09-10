@@ -5,6 +5,11 @@
 + [Beautiful Soup](https://pypi.org/project/beautifulsoup4/)
 + [Selenium](https://test.pypi.org/project/selenium/) (for **Firefox** & **Chrome** web browsers)
 
+webdriver-manager with Brave (web browser)
+```bash
+pip install webdriver-manager
+```
+
 ## ℹ️ Overview
 
 ## 🚀 Usage
